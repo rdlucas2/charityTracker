@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68f65d00-6eeb-493f-983f-d292d8533ad1" name="Default" comment="" />
+    <list default="true" id="68f65d00-6eeb-493f-983f-d292d8533ad1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <ignored path="charityTracker.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,7 +25,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="0.14040561">
+            <state line="7" column="28" selection-start="287" selection-end="287" vertical-scroll-proportion="0.046801873">
               <folding />
             </state>
           </provider>
@@ -210,7 +212,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="0.14040561">
+        <state line="7" column="28" selection-start="287" selection-end="287" vertical-scroll-proportion="0.046801873">
           <folding />
         </state>
       </provider>
