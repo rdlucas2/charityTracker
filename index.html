@@ -23,7 +23,10 @@
                         }
 
                         percentRaised = (totalRaised/goal) * 100;
-                        $('#inner').css('height', percentRaised + '%');
+                        $('#inner').css({
+                            'height': percentRaised + '%',
+                            'transition': '3s linear'
+                        });
 
                         $('#status').append(
                                 totalRaised + ' out of ' + goal
