@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id = "com.RyanLucas.charityTracker"
+        version = "1.0.0">
+
+    <name>Charity Tracker</name>
+
+    <description>
+        Charity Tracker + Geolocation Test App
+    </description>
+
+    <author href="https://github.com/rdlucas2"
+            email="rdlucas2@gmail.com">
+        Ryan Lucas
+    </author>
+
+    <!-- Device Features -->
+    <feature name="http://api.phonegap.com/1.0/geolocation"/>
+
+</widget>
